@@ -1,6 +1,6 @@
 Website ini adalah aplikasi berbasis web yang digunakan untuk mengelola data perlengkapan ekstrakurikuler seperti bola, gitar, kostum, dan sebagainya.
 
-Website ini dibuat menggunakan framework Laravel 10 (PHP) dan Bootstrap 5 untuk tampilan CSS-nya.
+Website ini dibuat menggunakan framework Laravel (PHP) 
 
 Fitur utama website ini antara lain:
 
